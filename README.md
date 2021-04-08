@@ -1,5 +1,12 @@
+<style type="text/css">
+p {
+  font-size: 40px;
+  font-weight: bold;
+}
+</style>
+
 <h1> Hi there 👋</h1>
-<span style="font-size: 20px; font-weight:bold;">I'm Zect</span>
+<p>I'm Zect</p>
 
 ## 所属(?)
 - Amachiの開発仲間(仮)（TeamAmaner）
