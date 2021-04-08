@@ -7,9 +7,9 @@
 - Python
 - HTML
 - CSS
-- JS
 - MySQL
 - PostgreSQL
+- JS（勉強中）
 - Java（勉強中）
 - Ruby（勉強中）
 
