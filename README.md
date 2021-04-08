@@ -1,5 +1,5 @@
 <h1> Hi there 👋</h1>
-**I'm Zect**
+<span style="font-size: 20px; font-weight:bold;">I'm Zect</span>
 
 ## 所属(?)
 - Amachiの開発仲間(仮)（TeamAmaner）
