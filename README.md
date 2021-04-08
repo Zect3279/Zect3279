@@ -2,7 +2,7 @@
 # I'm Zect
 
 ## 所属(?)
-- Amachiの開発仲間(仮)（TeamAmaner）
+- 【Amachiの開発仲間(仮)】（TeamAmaner）
 
 ## 対応言語
 - Python
