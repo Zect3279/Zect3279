@@ -1,5 +1,5 @@
 # Hi there 👋
-# I'm Zect
+**I'm Zect**
 
 ## 所属(?)
 - Amachiの開発仲間(仮)（TeamAmaner）
