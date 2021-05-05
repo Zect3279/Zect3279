@@ -15,6 +15,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sas08&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sas08&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## コメント
+面白そうだったから、
+OS制作始めてみた
 <!--
 **sas08/sas08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
