@@ -20,7 +20,7 @@
 面白そうだったから、
 OS制作始めてみた
 
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **sas08/sas08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
