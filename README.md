@@ -3,25 +3,16 @@
 ## 所属(?)
 - 【Amachiの開発仲間(仮)】（TeamAmaner）
 
-## 対応言語
-- Python
-- HTML
-- CSS
-- MySQL
-- PostgreSQL
-- JS（勉強中）
-- Java（勉強中）
-- Ruby（勉強中）
+## SNS
+- Twitter: [@Xect3279](https://twitter.com/Xect3279)
+
+## My Works
+https://sas08.github.io
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sas08&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sas08&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-## コメント
-面白そうだったから、  
-OS制作始めてみた
-
 
 <!--
 **sas08/sas08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
