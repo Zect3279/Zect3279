@@ -1,13 +1,13 @@
 # Hi there, I'm Zect 👋
 
 ## 所属(?)
-- 【Amachiの開発仲間(仮)】（TeamAmaner）
+- ~~【Amachiの開発仲間(仮)】（TeamAmaner）~~
 
 ## SNS
 - Twitter: [@Xect3279](https://twitter.com/Xect3279)
 
 ## My Works
-https://sas08.github.io
+https://zscode.net
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sas08&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sas08&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
