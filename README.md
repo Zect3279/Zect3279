@@ -4,7 +4,7 @@
 - ~~【Amachiの開発仲間(仮)】（TeamAmaner）~~
 
 ## SNS
-- Twitter: [@Xect3279](https://twitter.com/Xect3279)
+- Twitter: [@Zect3279](https://twitter.com/Zect3279)
 
 ## My Works
 https://zscode.net
