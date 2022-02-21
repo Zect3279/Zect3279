@@ -1,8 +1,5 @@
 # Hi there, I'm Zect 👋
 
-## 所属(?)
-- ~~【Amachiの開発仲間(仮)】（TeamAmaner）~~
-
 ## SNS
 - Twitter: [@Zect3279](https://twitter.com/Zect3279)
 
