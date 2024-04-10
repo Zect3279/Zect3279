@@ -1,4 +1,5 @@
 # Hi there, I'm Zect 👋
+Nの意思を合わせ持つ者
 
 ## SNS
 - Twitter: [@Zect3279](https://twitter.com/Zect3279)
